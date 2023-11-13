@@ -5,3 +5,7 @@ Consume JSON data with better performance and less code. JMapper is a library th
 ## Authors
 
 - Vinícius Gutierrez da Silva Rocha ([@gutyerrez](https://twitter.com/srgutyerrez))
+
+## MIT Licensed
+
+See [LICENSE](LICENSE) for details.

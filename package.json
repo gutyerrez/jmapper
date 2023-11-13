@@ -1,0 +1,32 @@
+{
+  "name": "jmapper",
+  "version": "1.0.0",
+  "description": "A better way to manage your JSON data",
+  "license": "MIT",
+  "type": "module",
+  "private": false,
+  "author": {
+    "name": "Vinícius Gutierrez da Silva Rocha",
+    "email": "srgutyerrez@gmail.com",
+    "url": "https://github.com/gutyerrez"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutyerrez/jmapper.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public",
+    "tag": "latest"
+  },
+  "engines": {
+    "node": "20.x.x"
+  },
+  "devDependencies": {
+    "@somosprte/eslint-config": "^1.7.2",
+    "typescript": "^5.2.2"
+  },
+  "eslintConfig": {
+    "extends": "@somosprte/eslint-config"
+  }
+}
